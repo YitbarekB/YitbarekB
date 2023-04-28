@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YitbarekB
-- 👀 I’m interested in programming particulary front end web development
-- 🌱 I’m currently practising backend development
+- 👀 I’m interested in programming particulary back end web development
+- 🌱 I’m currently working as full stack developer @ Adika Taxi Services PLC.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me with yitbe007@gmail.com
 
